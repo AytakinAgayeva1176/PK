@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0+guXC1yY+DpRABM1XnvdbIMtvMT1j4Wyy/8uEQc1Ns0jydltl0+Mws6ShevHsODgf1QGV/ztV+70RAnBcDqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aytakin.agayeva\\Desktop\\PK\\PK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aytakin.agayeva\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\aytakin.agayeva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aytakin.agayeva\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\aytakin.agayeva\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\aytakin.agayeva\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\aytakin.agayeva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\aytakin.agayeva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

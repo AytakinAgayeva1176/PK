@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PK</name>
+    </assembly>
+    <members>
+        <member name="M:PK.Controllers.ShortcutController.Create(PK.ViewModels.ShortcutVM)">
+            <summary>
+            Create Shortcut
+            </summary>
+            <param name="model">Shortcut model </param>
+            <returns></returns>
+        </member>
+        <member name="M:PK.Controllers.ShortcutController.GetByUniqueId(System.String)">
+            <summary>
+            Get Shortcut By UserId
+            </summary>
+            <param name="user_id"> User id of Shortcut </param>
+            <returns></returns>
+        </member>
+        <member name="M:PK.Controllers.ShortcutController.Update(PK.ViewModels.ShortcutVM)">
+            <summary>
+            Update Shortcut
+            </summary>
+            <param name="model">Shortcut model</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
