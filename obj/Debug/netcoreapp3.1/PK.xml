@@ -25,5 +25,52 @@
             <param name="model">Shortcut model</param>
             <returns></returns>
         </member>
+        <member name="M:PK.Controllers.StoryController.Create(PK.ViewModels.StoryVM)">
+            <summary>
+            Create Story
+            </summary>
+            <param name="model">Story model </param>
+            <returns></returns>
+        </member>
+        <member name="M:PK.Controllers.StoryController.Activate(System.String)">
+            <summary>
+            Activate Story
+            </summary>
+            <param name="uniq_id">uniq_id of story</param>
+            <returns></returns>
+        </member>
+        <member name="M:PK.Controllers.StoryController.Deactivate(System.String)">
+            <summary>
+            Deactivate Story
+            </summary>
+            <param name="uniq_id">uniq_id of story</param>
+            <returns></returns>
+        </member>
+        <member name="M:PK.Controllers.StoryController.GetAllActive">
+            <summary>
+            GetAllActive
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PK.Controllers.StoryController.GetAll">
+            <summary>
+            GetAll
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PK.Controllers.StoryController.Delete(System.String)">
+            <summary>
+            Delete Story By UniqId
+            </summary>
+            <param name="uniq_id"> Unique id of Story </param>
+            <returns></returns>
+        </member>
+        <member name="M:PK.Controllers.SuggestionController.Create(PK.ViewModels.SuggestionVM)">
+            <summary>
+            Create Suggestion
+            </summary>
+            <param name="model">Suggestion model </param>
+            <returns></returns>
+        </member>
     </members>
 </doc>

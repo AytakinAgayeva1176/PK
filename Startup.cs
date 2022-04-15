@@ -36,6 +36,7 @@ namespace PK
 
             });
             services.AddSingleton(Configuration.GetSection("TokenSettings").Get<TokenSettings>());
+            services.AddSingleton(Configuration.GetSection("FtpSettings").Get<FtpSettings>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
